@@ -22,7 +22,7 @@ The model was trained and evaluated on the dataset provided in the course materi
 
 ## Running the Code
 1. Ensure you have the required dependencies installed (list them here, e.g., PyTorch, torchvision, etc.)
-2. Open the Jupyter notebook `team_id_15_a.ipynb`
+2. Open the Jupyter notebook `Project.ipynb`
 3. Run all cells in order
 
 ## Additional Information
